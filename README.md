@@ -4,3 +4,4 @@
 
 [生産管理レポート.pdf](https://github.com/user-attachments/files/26270143/default.pdf)
 
+インターン：楽曲分析.ipynb
