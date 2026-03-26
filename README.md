@@ -4,3 +4,4 @@
 [生産管理.pdf](https://github.com/user-attachments/files/26270143/default.pdf)
 
 GCI(東京大学グローバル消費インテリジェンス寄付講座)
+README.ipynb
